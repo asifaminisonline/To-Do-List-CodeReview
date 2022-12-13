@@ -25,6 +25,7 @@ li {
   box-shadow: 0 0 10px #888;
 }
 
+
 .list-title {
   font-size: inherit;
   margin: 0;
@@ -53,6 +54,8 @@ li {
   color: gray;
   font-size: 14px;
   border: none;
+  display: flex;
+  justify-content: center;
 }
 
 .complete {
